@@ -21,7 +21,7 @@ javareport/
 ## Cara Menjalankan
 
 1.  **Siapkan File Input dan Template:**
-    * Pastikan file Excel yang akan diproses (`data.xlsx`) sudah ada di folder root proyek (`javareport/`).
+    * Pastikan file Excel yang akan diproses (`data.xlsx`) sudah ada di folder root proyek (`javareport/`). **Jika Anda mengunduh data dari dashboard, rubah nama file tersebut menjadi `data.xlsx`**.
     * Pastikan file template (`Report Pass Masuk GAC.xlsx`) sudah ada di folder `javareport/template/`.
 
 2.  **Kompilasi Proyek** dari terminal atau Command Prompt, pastikan Anda berada di dalam folder `javareport/`.
